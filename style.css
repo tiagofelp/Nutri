@@ -135,8 +135,9 @@ summary:focus-visible {
 
 /* 04. Header: desktop navigation and JavaScript-powered mobile disclosure. */
 .site-header {
-  position: relative;
+  position: sticky;
   z-index: 20;
+  top: 0;
   background: var(--background);
 }
 
