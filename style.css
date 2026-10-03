@@ -1,21 +1,21 @@
 :root {
-  --background: #f7e3b2;
+  --background: #fef0cd;
   --foreground: #57342d;
-  --card: #f7e3b2;
+  --card: #fef0cd;
   --card-foreground: #57342d;
   --primary: #57342d;
-  --primary-foreground: #f7e3b2;
+  --primary-foreground: #fef0cd;
   --secondary: #f28a49;
   --secondary-foreground: #57342d;
-  --muted: #f7e3b2;
+  --muted: #fef0cd;
   --muted-foreground: #57342d;
   --accent: #e3967d;
   --accent-foreground: #57342d;
   --border: #f28a49;
-  --input: #f7e3b2;
+  --input: #fef0cd;
   --ring: #e3967d;
-  --surface: #f7e3b2;
-  --leaf: #f7e3b2;
+  --surface: #fef0cd;
+  --leaf: #fef0cd;
 }
 
 /* 02. Base: accessible scrolling and consistent typography. */
